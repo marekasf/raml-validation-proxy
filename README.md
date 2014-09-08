@@ -1,5 +1,14 @@
-raml-validation-proxy
+Repository moved
 =====================
+
+This repository has been moved to [https://github.com/hybris/raml-validation-proxy](https://github.com/hybris/raml-validation-proxy)
+
+Old content
+=====================
+
+
+raml-validation-proxy
+-----------
 
 A lot of RESTful services using [RESTful API Modeling Language][8] to define their APIs.
 This service utilizes RESTful services test harness to verify if implementation follows API contract.
